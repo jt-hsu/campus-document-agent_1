@@ -1,0 +1,2 @@
+# This prototype uses only Python's standard library.
+# A pinned Python 3.11 base image is specified in Containerfile.
