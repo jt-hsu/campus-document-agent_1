@@ -169,4 +169,4 @@ python -m unittest discover -s tests -v
 - HW3：依課程要求建立至少 10 個測試案例，比較 Agent 改進前後的結果與測試指標。
 -HW4（視資源與進度）：評估進一步的語意檢索及更自然、精簡的條文解釋。
 
-Agent 架構、測試證據與 Failure Cases 詳見 `reports/` 中的 HW2 技術報告（若 Repository 已附上該檔）。
+Agent 架構、測試證據與 Failure Cases 詳見 數位學院 中的 HW2 技術報告。
